@@ -1,0 +1,6 @@
+[workspace]
+resolver="3"
+members = [
+    "guess_num_game",
+    "format_output", "common_program_concept", "fibonacci",
+]
