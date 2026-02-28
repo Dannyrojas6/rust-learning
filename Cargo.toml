@@ -2,5 +2,5 @@
 resolver="3"
 members = [
     "guess_num_game",
-    "format_output", "common_program_concept", "fibonacci",
+    "format_output", "common_program_concept", "fibonacci", "ownership", "rust_calculator", "calculator",
 ]
